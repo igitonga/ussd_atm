@@ -1,0 +1,17 @@
+{
+    "name": "gitonga/atm_ussd",
+    "autoload": {
+        "psr-4": {
+            "Gitonga\\AtmUssd\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "igitonga",
+            "email": "iangitonga47@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/support": "^10.13"
+    }
+}
